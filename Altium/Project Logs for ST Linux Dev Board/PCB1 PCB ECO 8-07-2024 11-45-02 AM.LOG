@@ -1,0 +1,111 @@
+Added Component: Designator=U?(LFBGA354_16X16_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LFBGA354_16X16_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-A1
+Added Pin To Net: NetName=GND Pin=U?-A19
+Added Pin To Net: NetName=GND Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B6
+Added Pin To Net: NetName=GND Pin=U?-C3
+Added Pin To Net: NetName=GND Pin=U?-C12
+Added Pin To Net: NetName=GND Pin=U?-C13
+Added Pin To Net: NetName=GND Pin=U?-C14
+Added Pin To Net: NetName=GND Pin=U?-C15
+Added Pin To Net: NetName=GND Pin=U?-C16
+Added Pin To Net: NetName=GND Pin=U?-C17
+Added Pin To Net: NetName=GND Pin=U?-D1
+Added Pin To Net: NetName=GND Pin=U?-D4
+Added Pin To Net: NetName=GND Pin=U?-D5
+Added Pin To Net: NetName=GND Pin=U?-D8
+Added Pin To Net: NetName=GND Pin=U?-E2
+Added Pin To Net: NetName=GND Pin=U?-E4
+Added Pin To Net: NetName=GND Pin=U?-E5
+Added Pin To Net: NetName=GND Pin=U?-E6
+Added Pin To Net: NetName=GND Pin=U?-E8
+Added Pin To Net: NetName=GND Pin=U?-E10
+Added Pin To Net: NetName=GND Pin=U?-E12
+Added Pin To Net: NetName=GND Pin=U?-E14
+Added Pin To Net: NetName=GND Pin=U?-E16
+Added Pin To Net: NetName=GND Pin=U?-F5
+Added Pin To Net: NetName=GND Pin=U?-F7
+Added Pin To Net: NetName=GND Pin=U?-F9
+Added Pin To Net: NetName=GND Pin=U?-F11
+Added Pin To Net: NetName=GND Pin=U?-F13
+Added Pin To Net: NetName=GND Pin=U?-F15
+Added Pin To Net: NetName=GND Pin=U?-G2
+Added Pin To Net: NetName=GND Pin=U?-G4
+Added Pin To Net: NetName=GND Pin=U?-G6
+Added Pin To Net: NetName=GND Pin=U?-G8
+Added Pin To Net: NetName=GND Pin=U?-G10
+Added Pin To Net: NetName=GND Pin=U?-G12
+Added Pin To Net: NetName=GND Pin=U?-G14
+Added Pin To Net: NetName=GND Pin=U?-H5
+Added Pin To Net: NetName=GND Pin=U?-H7
+Added Pin To Net: NetName=GND Pin=U?-H9
+Added Pin To Net: NetName=GND Pin=U?-H11
+Added Pin To Net: NetName=GND Pin=U?-H13
+Added Pin To Net: NetName=GND Pin=U?-H15
+Added Pin To Net: NetName=GND Pin=U?-J3
+Added Pin To Net: NetName=GND Pin=U?-J4
+Added Pin To Net: NetName=GND Pin=U?-J6
+Added Pin To Net: NetName=GND Pin=U?-J8
+Added Pin To Net: NetName=GND Pin=U?-J10
+Added Pin To Net: NetName=GND Pin=U?-J12
+Added Pin To Net: NetName=GND Pin=U?-J14
+Added Pin To Net: NetName=GND Pin=U?-K2
+Added Pin To Net: NetName=GND Pin=U?-K5
+Added Pin To Net: NetName=GND Pin=U?-K7
+Added Pin To Net: NetName=GND Pin=U?-K9
+Added Pin To Net: NetName=GND Pin=U?-K11
+Added Pin To Net: NetName=GND Pin=U?-K13
+Added Pin To Net: NetName=GND Pin=U?-K15
+Added Pin To Net: NetName=GND Pin=U?-L4
+Added Pin To Net: NetName=GND Pin=U?-L6
+Added Pin To Net: NetName=GND Pin=U?-L8
+Added Pin To Net: NetName=GND Pin=U?-L10
+Added Pin To Net: NetName=GND Pin=U?-L12
+Added Pin To Net: NetName=GND Pin=U?-L14
+Added Pin To Net: NetName=GND Pin=U?-M5
+Added Pin To Net: NetName=GND Pin=U?-M7
+Added Pin To Net: NetName=GND Pin=U?-M9
+Added Pin To Net: NetName=GND Pin=U?-M11
+Added Pin To Net: NetName=GND Pin=U?-M13
+Added Pin To Net: NetName=GND Pin=U?-M15
+Added Pin To Net: NetName=GND Pin=U?-N4
+Added Pin To Net: NetName=GND Pin=U?-N6
+Added Pin To Net: NetName=GND Pin=U?-N8
+Added Pin To Net: NetName=GND Pin=U?-N10
+Added Pin To Net: NetName=GND Pin=U?-N12
+Added Pin To Net: NetName=GND Pin=U?-N14
+Added Pin To Net: NetName=GND Pin=U?-P5
+Added Pin To Net: NetName=GND Pin=U?-P7
+Added Pin To Net: NetName=GND Pin=U?-P9
+Added Pin To Net: NetName=GND Pin=U?-P11
+Added Pin To Net: NetName=GND Pin=U?-P13
+Added Pin To Net: NetName=GND Pin=U?-P15
+Added Pin To Net: NetName=GND Pin=U?-R2
+Added Pin To Net: NetName=GND Pin=U?-R5
+Added Pin To Net: NetName=GND Pin=U?-R6
+Added Pin To Net: NetName=GND Pin=U?-R8
+Added Pin To Net: NetName=GND Pin=U?-R10
+Added Pin To Net: NetName=GND Pin=U?-R12
+Added Pin To Net: NetName=GND Pin=U?-R14
+Added Pin To Net: NetName=GND Pin=U?-R16
+Added Pin To Net: NetName=GND Pin=U?-T4
+Added Pin To Net: NetName=GND Pin=U?-U3
+Added Pin To Net: NetName=GND Pin=U?-U6
+Added Pin To Net: NetName=GND Pin=U?-U8
+Added Pin To Net: NetName=GND Pin=U?-U13
+Added Pin To Net: NetName=GND Pin=U?-U14
+Added Pin To Net: NetName=GND Pin=U?-U17
+Added Pin To Net: NetName=GND Pin=U?-V12
+Added Pin To Net: NetName=GND Pin=U?-V15
+Added Pin To Net: NetName=GND Pin=U?-W1
+Added Pin To Net: NetName=GND Pin=U?-W19
+Added Net: Name=GND
+Added Class: Name=Power
+Added Rule: Name=Schematic Supply Nets
