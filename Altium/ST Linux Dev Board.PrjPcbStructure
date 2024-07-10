@@ -1,4 +1,6 @@
 Record=TopLevelDocument|FileName=DDR3.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=eMMC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=MicroSD.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=Power.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=DDR3.SchDoc|FileName=STM32 Decoupling.SchDoc|SheetNumber=4
