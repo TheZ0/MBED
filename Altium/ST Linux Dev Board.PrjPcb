@@ -219,6 +219,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUFXYCCI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ST Linux Dev Board\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

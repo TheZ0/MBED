@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=1V35 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=1V35 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=1V35 Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=1V35 Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=1V35 Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=1V35 Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Change Component Footprint: Designator=C29 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC0603X33X15LL03T05
+Change Component Footprint: Designator=C30 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC0603X33X15LL03T05
+Change Component Footprint: Designator=C31 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC0603X33X15LL03T05
+Change Component Footprint: Designator=C32 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC0603X33X15LL03T05
+Change Component Footprint: Designator=C33 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC0603X33X15LL03T05
+Change Component Footprint: Designator=C34 Old Footprint=FP-C0603C-CF-MFG New Footprint=CAPC0603X33X15LL03T05
+Change Managed Component Library Link : Designator=C29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=1D1E25CB-FF33-49D9-A460-479E23F05F17 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=89913D42-7EE1-4EC1-82A4-D806E87AE5EA
+Change Managed Component Library Link : Designator=C30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=1D1E25CB-FF33-49D9-A460-479E23F05F17 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=89913D42-7EE1-4EC1-82A4-D806E87AE5EA
+Change Managed Component Library Link : Designator=C31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=1D1E25CB-FF33-49D9-A460-479E23F05F17 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=89913D42-7EE1-4EC1-82A4-D806E87AE5EA
+Change Managed Component Library Link : Designator=C32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=1D1E25CB-FF33-49D9-A460-479E23F05F17 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=89913D42-7EE1-4EC1-82A4-D806E87AE5EA
+Change Managed Component Library Link : Designator=C33 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=1D1E25CB-FF33-49D9-A460-479E23F05F17 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=89913D42-7EE1-4EC1-82A4-D806E87AE5EA
+Change Managed Component Library Link : Designator=C34 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F80B3148-3272-480B-A8B1-3C3CFF5B2F34 New ItemGUID=1D1E25CB-FF33-49D9-A460-479E23F05F17 Old RevisionGUID=F5F640B1-C94D-4CA9-A28B-62B017663A3B New RevisionGUID=89913D42-7EE1-4EC1-82A4-D806E87AE5EA
+Change component parameters: Designator = "C29" ("C29"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\TADUJADC" ("\TADUJADC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02016D104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\VUDLIJEX" ("\VUDLIJEX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02016D104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\NVXMHFSJ" ("\NVXMHFSJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02016D104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\XSSGSKLR" ("\XSSGSKLR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02016D104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\BEWFIIFW" ("\BEWFIIFW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02016D104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\KHMMXGIN" ("\KHMMXGIN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02016D104KAT2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=1V35 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=1V35 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=1V35 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=1V35 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=1V35 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=1V35 Pin=C34-2
+Added Member To Class: ClassName=MicroSD Member=Component C99 16p
+Added Member To Class: ClassName=MicroSD Member=Component U1 STM32MP151AAB3
