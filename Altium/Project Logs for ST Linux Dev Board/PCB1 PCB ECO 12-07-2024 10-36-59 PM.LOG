@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DDR_ODT Pin=R31-2
+Removed Member From Class: ClassName=DDR3 Member=R31
+Added Component: Designator=R?(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0402150KFKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DDR_ODT Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U3-K1
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=DDR3 Member=Component R? CRCW0402150KFKED
+Added Member To Class: ClassName=MicroSD Member=Component U1 STM32MP151AAB3

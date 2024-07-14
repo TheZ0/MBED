@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=DDR_ADDR Member=DDR_A13
+Removed Member From Class: ClassName=DDR_ADDR Member=DDR_A14
+Removed Member From Class: ClassName=DDR_ADDR Member=DDR_A15
+Added Member To Class: ClassName=MicroSD Member=Component U1 STM32MP151AAB3
+Added Member To Class: ClassName=DDR3 Member=Component U3 MT41K64M16TW-107 IT:J
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR13_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR14_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR15_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR16_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR17_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR18_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR19_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR20_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR21_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR22_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR23_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR24_2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire NetR25_2

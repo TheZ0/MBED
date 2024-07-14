@@ -1,0 +1,5 @@
+Added Component: Designator=U?(C_ARRAY_EXB28V_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DDR3 Member=Component U? EXB28V330JX

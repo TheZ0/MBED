@@ -1,0 +1,135 @@
+Change Component Footprint: Designator=R13 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R14 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R15 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R16 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R17 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R18 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R19 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R20 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R21 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R22 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R23 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R24 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R25 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R26 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R27 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R28 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R30 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R32 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R33 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R34 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R35 Old Footprint=RESC1005X40X25NL05T05 New Footprint=RESC0603X28X15ML05T05
+Change Component Footprint: Designator=R29 Old Footprint=RESC1609X50X30NL8T20 New Footprint=RESC0603X28X15ML05T05
+Change Component Comment : Designator=R29 Old Comment=100 New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R13 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R14 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R15 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R16 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R17 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R18 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R19 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R20 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R21 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R22 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R23 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R24 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R25 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R26 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R27 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R28 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R30 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R32 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R33 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R34 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Component Comment : Designator=R35 Old Comment=CRCW0402150KFKED New Comment=CRCW0201100RFKED
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R19 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R21 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R27 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1DB640A7-01FA-40C0-9C6B-F8AB2FC9493E New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=CD1C2C1B-133A-4F07-A6D2-1D76A18A9CF7 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R33 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R34 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change Managed Component Library Link : Designator=R35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6D37E5E2-95BC-4D56-AC27-63B14BDD72AA New ItemGUID=369DB497-9E50-4281-ABDB-AD6F65B759B0 Old RevisionGUID=4B965310-0324-4188-93CF-765676635169 New RevisionGUID=29316103-C3C9-41C9-AA38-C7B88C0E4C35
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\JKSPFHBF" ("\JKSPFHBF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\JMQSMNEY" ("\JMQSMNEY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\YOGXEATM" ("\YOGXEATM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\PUFEDVKA" ("\PUFEDVKA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\LVMRTPTI" ("\LVMRTPTI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\BEQEXJKH" ("\BEQEXJKH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\ZBZXHOIH" ("\ZBZXHOIH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\SBHITOCW" ("\SBHITOCW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\RHLFVLSN" ("\RHLFVLSN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\BUZXJBXS" ("\BUZXJBXS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\BLNUWEBJ" ("\BLNUWEBJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\BGTTLDCI" ("\BGTTLDCI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\MWYLCSOH" ("\MWYLCSOH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\YUYKKXMY" ("\YUYKKXMY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\KZTFMYTJ" ("\KZTFMYTJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\ENPMMZYP" ("\ENPMMZYP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RESC1609X50X30NL8T20"; UniqueID = "\NIGFPLJA" ("\NIGFPLJA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\AVDWZWNX" ("\AVDWZWNX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\HUSQPEVN" ("\HUSQPEVN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\EEXDUUTD" ("\EEXDUUTD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\WEMWYIVO" ("\WEMWYIVO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\LRILJRXE" ("\LRILJRXE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DDR3 Member=Component C56 100n
+Added Member To Class: ClassName=MicroSD Member=Component U1 STM32MP151AAB3
+Added Member To Class: ClassName=DDR3 Member=Component U3 MT41K64M16TW-107 IT:J
