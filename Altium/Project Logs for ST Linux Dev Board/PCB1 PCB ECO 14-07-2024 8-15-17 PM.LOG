@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ0
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ1
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ2
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ3
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ4
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ5
+Removed Member From Class: ClassName=DDR_DQ Member=DDR_DQ6
+Change Class Name : Old Net Name=DDR_DQ New Net Name=DDR_DQ_BL1
+Added Class: Name=DDR_DQ_BL0
+Added Member To Class: ClassName=DDR_DQ_BL1 Member=Wire DDR_UDM
+Added Member To Class: ClassName=DDR_DQ_BL1 Member=Wire DDR_UDQS_N
+Added Member To Class: ClassName=DDR_DQ_BL1 Member=Wire DDR_UDQS_P

@@ -1,0 +1,10 @@
+Added Component: Designator=R65(RES_EXB2HV)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R66(RES_EXB2HV)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DDR3 Member=Component R65 EXB-2HV330JV
+Added Member To Class: ClassName=DDR3 Member=Component R66 EXB-2HV330JV

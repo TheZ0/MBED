@@ -1,0 +1,32 @@
+Added Component: Designator=R18(RESC0603X28X15ML05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC0603X28X15ML05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DDR_A6 Pin=R18-1
+Added Pin To Net: NetName=DDR_MEM_A6 Pin=R18-2
+Added Pin To Net: NetName=DDR_A1 Pin=R19-1
+Added Pin To Net: NetName=DDR_MEM_A1 Pin=R19-2
+Added Member To Class: ClassName=DDR3 Member=Component R18 CRCW0201100RFKED
+Added Member To Class: ClassName=DDR3 Member=Component R19 CRCW0201100RFKED
+Added Member To Class: ClassName=DDR3 Member=Component U3 MT41K64M16TW-107 IT:J
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_A1
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_A6
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A1
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A3
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A4
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A5
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A6
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A7
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A8
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A9
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A10
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A11
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_A12
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_BA0
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_BA1
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_BA2
+Added Member To Class: ClassName=DDR_ADDR Member=Wire DDR_MEM_CKE

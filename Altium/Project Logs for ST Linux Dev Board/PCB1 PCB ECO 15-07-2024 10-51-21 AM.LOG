@@ -1,0 +1,23 @@
+Added Component: Designator=U4(C_ARRAY_EXB28V_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U7(C_ARRAY_EXB28V_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U8(C_ARRAY_EXB28V_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U9(C_ARRAY_EXB28V_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU8_5 Pin=U8-5
+Added Pin To Net: NetName=NetU8_5 Pin=U9-1
+Added Net: Name=NetU8_5
+Added Member To Class: ClassName=DDR3 Member=Component U4 EXB28V330JX
+Added Member To Class: ClassName=DDR3 Member=Component U7 EXB28V330JX
+Added Member To Class: ClassName=DDR3 Member=Component U8 EXB28V330JX
+Added Member To Class: ClassName=DDR3 Member=Component U9 EXB28V330JX
