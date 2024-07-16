@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=DDR_RESETN Pin=R39-2
+Removed Member From Class: ClassName=DDR3 Member=R39
+Change Component Comment : Designator=R20 Old Comment=10k New Comment=240
+Added Component: Designator=R21(RESC0603X28X15ML05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0201100RFKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=DDR_RESETN Pin=R21-2
+Added Member To Class: ClassName=DDR3 Member=Component R21 10k
